@@ -1,7 +1,7 @@
 {
   "name": "limit-alphanumeric",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Limit a string to alphanumeric characters",
   "license": "MIT",
   "repository": "bendrucker/limit-alphanumeric",

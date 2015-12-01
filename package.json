@@ -1,0 +1,30 @@
+{
+  "name": "limit-alphanumeric",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Limit a string to alphanumeric characters",
+  "license": "MIT",
+  "repository": "bendrucker/limit-alphanumeric",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "alpha",
+    "string",
+    "numeric",
+    "alphanumeric",
+    "regex"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^5.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}

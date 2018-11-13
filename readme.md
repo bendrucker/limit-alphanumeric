@@ -1,4 +1,4 @@
-# limit-alphanumeric [![Build Status](https://travis-ci.org/bendrucker/limit-alphanumeric.svg?branch=master)](https://travis-ci.org/bendrucker/limit-alphanumeric)
+# limit-alphanumeric [![Build Status](https://travis-ci.org/bendrucker/limit-alphanumeric.svg?branch=master)](https://travis-ci.org/bendrucker/limit-alphanumeric) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/limit-alphanumeric.svg)](https://greenkeeper.io/)
 
 > Limit a string to alphanumeric characters
 
